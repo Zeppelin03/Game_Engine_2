@@ -6,4 +6,4 @@ For this assigment  an going to recreate the final battle in the movie Edner's G
 
 ### **View Scene Youtube**
 
-[![YouTube](http://img.youtube.com/vi/IXdbCU3Mt_c&t/294.jpg)](https://www.youtube.com/watch?v=IXdbCU3Mt_c&t=120s)
+[![YouTube](http://img.youtube.com/vi/IXdbCU3Mt_c&t/0.jpg)](https://www.youtube.com/watch?v=IXdbCU3Mt_c&t=120s)
