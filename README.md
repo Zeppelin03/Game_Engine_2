@@ -15,4 +15,3 @@ For this game engines assigment I am going to recreate the final battle from the
 ![](Images/5%20Main%20ship%20continues%20to%20push%20forward.PNG)
 ![](Images/6%20Drone%20ships%20push%20forward.PNG)
 ![](Images/7%20Fire%20at%20planet.PNG)
-![](Images/8%20Planet%20Explodes.PNG)
