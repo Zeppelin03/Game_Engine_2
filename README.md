@@ -34,6 +34,6 @@ For this game engines assigment I am going to recreate the final battle sequence
 ![](Images/8%20Planet%20Explodes.PNG)
 - The planet explodes killing the enemy
 
-## **View Scene Youtube**
+## **View Scene On Youtube**
 
 [![YouTube](http://img.youtube.com/vi/IXdbCU3Mt_c&t/0.jpg)](https://www.youtube.com/watch?v=IXdbCU3Mt_c&t=120s)
