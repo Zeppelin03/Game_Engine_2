@@ -1,7 +1,7 @@
 # Game_Engine_2-2019-2020 | Student ID - C17478586
 
 ### **Desription**
-For this game engines assigment I am going to recreate the final battle from the movie Edner's Game.
+For this game engines assigment I am going to recreate the final battle sequence from the movie Edner's Game. This sequence follows Ender leading a fleet of ships to destory a planet in order to garentuee the success of the human race.
 
 # Storyboard
 
