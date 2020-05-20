@@ -10,12 +10,22 @@ public class WaypointScript : MonoBehaviour
     public GameObject Beam2;
     public GameObject Smoke;
 
+
     private void OnTriggerEnter(Collider other)
     {
-        Ship.GetComponent<MainShip>().enabled = false;
+        GameObject[] gameObjectArray = GameObject.FindGameObjectsWithTag("Drone");
+        Ship.GetComponent<Boid>().enabled = false;
+        //Drone.GetComponent<MainShip>().enabled = false;
         Beam1.SetActive(true);
         Beam2.SetActive(true);
         Smoke.SetActive(true);
+        foreach (GameObject go in gameObjectArray)
+        {
+
+            go.GetComponent<MainShip>().enabled = false;
+
+
+        }
 
     }
 }

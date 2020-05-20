@@ -34,11 +34,11 @@ public class BigBoid : MonoBehaviour
     public float waypointDistance = 3;
     public Path path;
 
-    public BigBoid pursueTarget;
+    public Boid pursueTarget;
     public bool pursueEnabled;
     public Vector3 pursueTargetPos;
 
-    public Vector3 Pursue(BigBoid pursueTarget)
+    public Vector3 Pursue(Boid pursueTarget)
     {
         float dist = Vector3.Distance(pursueTarget.transform.position, transform.position);
         float time = dist / maxSpeed;
